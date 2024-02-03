@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid gray;
+    overflow: hidden;
+}
+.rownav{
+   justify-content: space-between;
+   background-color: gray;
+}
+.atribute{
+    text-decoration: none;
+    color: black;
+}
+.linknav li a{
+    text-decoration: none;
+    color: white;
+}
+.head{
+    background-color: darkgray;
+    border: none;
+    font-weight: bolder;
+}
